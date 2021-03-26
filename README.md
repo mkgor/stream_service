@@ -1,6 +1,6 @@
 # stream_service
 
-Wrapper for dart strems
+Wrapper for dart streams
 
 ## Getting Started
 
